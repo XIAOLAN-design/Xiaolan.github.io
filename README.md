@@ -20,3 +20,9 @@ H~2~O is是液体。
 链接: [link](https://mp.csdn.net).
 图片: ![Alt](https://kpsmile95.github.io/avatar/tx.jpeg)
 <img href="https://kpsmile95.github.io/avatar/tx.jpeg" style="width:50px;height:50px"/>
+\vfill % push the minipage to the bottom of the page
+\noindent % prevent indentation
+\begin{minipage}[b]{\linewidth}
+    \raggedleft % right-align the content of the minipage
+    \includegraphics[width=0.3\linewidth]{} % replace 'example-image' with your image file name
+\end{minipage}
