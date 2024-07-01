@@ -8,8 +8,8 @@ This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 
- $$ \text { With prob. 1, curve }((1-\alpha), \beta \theta) \text { is }$$ \\
-        $$ H(\theta)+k \theta\left(H(\beta \alpha)-\beta \alpha \log \frac{1}{\alpha}-(1-\beta \alpha) \log \left(\frac{1}{1-\alpha}\right)\right)=0$$
+ $$ \text { With prob. 1, curve }((1-\alpha), \beta \theta) \text { is } \\
+        $$ H(\theta)+k \theta\left(H(\beta \alpha)-\beta \alpha \log \frac{1}{\alpha}-(1-\beta \alpha) \log \left(\frac{1}{1-\alpha}\right)\right)=0
 *强调文本* _强调文本_  
 **加粗文本** __加粗文本__  
 ==标记文本==  
