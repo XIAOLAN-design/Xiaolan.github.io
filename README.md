@@ -7,17 +7,9 @@ This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
-\begin{itemize}
-      \item Named Entity Recognition (NER)
-      \item pronoun disambiguation
-      \item Sentiment Analysis
-      \item Anaphora Resolution
-      \item Logical Inference
-   \end{itemize} 
-   \begin{block}{Barack Obama was born in Hawaii. He served as the 44th President of the United States.}  
-   \end{block}
-   \begin{exampleblock}{I love waiting in long lines. It makes me want to cut myself.}  
-   \end{exampleblock}  
+
+ $$ \text { With prob. 1, curve }((1-\alpha), \beta \theta) \text { is }$$ \\
+        $$ H(\theta)+k \theta\left(H(\beta \alpha)-\beta \alpha \log \frac{1}{\alpha}-(1-\beta \alpha) \log \left(\frac{1}{1-\alpha}\right)\right)=0$$
 *强调文本* _强调文本_  
 **加粗文本** __加粗文本__  
 ==标记文本==  
