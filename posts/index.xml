@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 霄岚侠客</title>
+    <link>https://XIAOLAN-design.github.io/posts/</link>
+    <description>Recent content in Posts on 霄岚侠客</description>
+    <image>
+      <title>霄岚侠客</title>
+      <url>https://XIAOLAN-design.github.io/images/papermod-cover.png</url>
+      <link>https://XIAOLAN-design.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://XIAOLAN-design.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emergence of Complex Skills in Language Model</title>
+      <link>https://XIAOLAN-design.github.io/posts/emergence/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/emergence/</guid>
+      <description>Deep Exploration of Theory on Emergence of Large Language Model</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://XIAOLAN-design.github.io/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>https://XIAOLAN-design.github.io/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://XIAOLAN-design.github.io/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://XIAOLAN-design.github.io/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://XIAOLAN-design.github.io/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+  </channel>
+</rss>

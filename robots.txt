@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://XIAOLAN-design.github.io/sitemap.xml

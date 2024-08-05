@@ -1,0 +1,8 @@
+span.img-with-caption {
+  display: inline-block;
+}
+span.img-caption {
+  float: left;
+  text-align: center;
+  width: 30%;
+}
